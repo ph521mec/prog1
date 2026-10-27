@@ -1,4 +1,3 @@
-// Hello.scala
 def main() =
   println(51966.toBinaryString);
   println(51966.toHexString);
