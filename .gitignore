@@ -1,0 +1,16 @@
+# Zugangsdaten
+*.env
+
+# Build-Ausgaben (Mill, sbt)
+out/
+target/
+
+# Metals / Scala-CLI / Build-Server, von der IDE erzeugt
+.metals/
+.bloop/
+.bsp/
+.scala-build/
+project/metals.sbt
+
+# Editor
+.vscode/
